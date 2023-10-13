@@ -1,0 +1,15 @@
+  119  cd Documents
+  120  ls
+  121  cd quetes-terminal3
+  122  ls
+  123  cat wilders.csv
+  124  ls
+  125  cat php.csv
+  126  head wilders.csv
+  127  cat wilders.csv
+  128  cat PHP.csv
+  129  grep "JavaScript" wilders.csv | grep -E "Toulouse|Biarritz" > javascript_biarritz_toulouse.csv
+  130  cat javascript_biarritz_toulouse.csv
+  131  grep grep "JavaScript" wilders.csv | grep -E "Toulouse|Biarritz" > javascript_biarritz_toulouse.csv
+  132  grep "JavaScript" wilders.csv| grep -E "Biarritz|Toulouse" > Javascript_biarritz_toulouse.csv
+  133  cat Javascript_biarritz_toulouse.csv
